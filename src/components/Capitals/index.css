@@ -1,0 +1,41 @@
+.con {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #93c5fd;
+  align-items: center;
+}
+.con1 {
+  padding: 50px;
+  background-color: white;
+  border-radius: 20px;
+}
+.head {
+  color: black;
+  font-weight: bold;
+  font-family: Bree Serif;
+}
+.con8 {
+  display: flex;
+}
+.select {
+  padding: 10px;
+  font-weight: bold;
+  font-size: 25px;
+  font-family: Bree Serif;
+}
+.span {
+  color: black;
+  font-weight: bold;
+  font-family: Bree Serif;
+  margin-left: 20px;
+  font-size: 25px;
+}
+
+.para {
+  margin: 20px;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Bree Serif;
+}
